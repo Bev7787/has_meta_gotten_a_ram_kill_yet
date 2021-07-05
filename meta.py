@@ -12,3 +12,5 @@ def add_header(response):
 
 if __name__ == "__main__":
     app.run()
+    if(input('Hi: ') == 1):
+        import antigravity
